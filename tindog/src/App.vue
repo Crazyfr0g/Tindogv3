@@ -18,13 +18,21 @@
 
   #HomeLogin
   {
-    font-family: 'Century Gothic';
-    font-size: 30px;
+    font-family: 'Courier New';
+    /* font-size: 30px; */
 
   }
 
-  #HomeLogin #LogoStyle
+
+  #Home #PicStyle #Pic
   {
-    font-size: 40px;
+    margin-top: 10px;
   }
+
+  #HomeLogin label
+  {
+  text-align: center;
+  }
+
+  
 </style>
